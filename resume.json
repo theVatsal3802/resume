@@ -47,11 +47,7 @@
 	"skills": [
         {
 		"level": "Intermediate",
-		"keywords": ["HTML", "CSS", "Javascript", "C/C++"]
-	},
-        {
-		"level": "Beginner",
-		"keywords": ["Java", "Flutter"]
+		"keywords": ["HTML", "CSS", "Javascript", "C/C++", "Java"]
 	}
 ],
 	"interests": [
