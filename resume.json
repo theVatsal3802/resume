@@ -58,6 +58,10 @@
         {
 		"name": "Music",
 		"keywords": ["Singing"]
+	},
+		{
+		"name": "Photography",
+		"keywords":	["Photography"]
 	}
 ],
 	"references": []
